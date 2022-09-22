@@ -28,7 +28,6 @@ The JS file checks if the necessary resources are already included, otherwise it
 
 ## See it in action!
 These are some of my projects that include it:
-- [calculator](https://github.com/cernikkk/calculator)
 - [tic-tac-toe](https://github.com/cernikkk/tic-tac-toe)
 - [library](https://github.com/cernikkk/library)
 
