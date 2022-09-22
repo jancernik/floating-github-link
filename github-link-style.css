@@ -44,7 +44,7 @@
   font-size: calc(var(--icon-size)*0.32);
   font-weight: 900;
   font-style: italic;
-  content: 'JnaCer';
+  content: 'cernikkk';
   position: fixed;
   z-index: -1;
   display: flex;
@@ -67,7 +67,7 @@
 .github-link:hover::before {
   transform: translateX(-0.15em);
   padding: 0 0 0 0.45em; 
-  width: 3.6em;
+  width: 4.3em;
 }
 
 .github-link:hover::after {
