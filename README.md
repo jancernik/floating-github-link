@@ -1,7 +1,8 @@
 # Floating GitHub Link
-This is a stylesheet to display a floating button that redirects you to my GitHub page (or any other page). Since it's reusable, it can be included in several of my projects.
+This is a stylesheet to display a floating button that redirects you to my GitHub page (or any other page).
 
 ![demo gif](https://media.giphy.com/media/2TRnGpVCHcB6fGj2CC/giphy.gif)
+>This was my old username.
 
 ## Features
 
@@ -15,12 +16,10 @@ The JS file checks if the necessary resources are already included, otherwise it
     * "Font Awesome 6 Brands" icon library.
     * "Source Sans Pro" Google font.
 
->Note: the files are written in vanilla JavaScript and CSS.
-
 ## Usage
 - Include the following `<script>` tag at the bottom of the HTML head:
 ```html
-<script src="https://cdn.jsdelivr.net/gh/JnaCer/floating-github-link@main/github-link.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/cernikkk/floating-github-link@main/github-link.js"></script>
 ```
 
 - Apply the style to an empty `<a>` tag with `class="github-link"`.
@@ -29,5 +28,8 @@ The JS file checks if the necessary resources are already included, otherwise it
 
 ## See it in action!
 These are some of my projects that include it:
-- not set up yet :)
+- [calculator](https://github.com/cernikkk/calculator)
+- [tic-tac-toe](https://github.com/cernikkk/tic-tac-toe)
+- [library](https://github.com/cernikkk/library)
 
+***And that's all, I didn't end up using it much...***
