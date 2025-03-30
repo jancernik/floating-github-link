@@ -1,5 +1,5 @@
 const fontAwesomeJsSource = "https://kit.fontawesome.com/75e6554cbc.js";
-const cssSource = "https://cdn.jsdelivr.net/gh/cernikkk/floating-github-link@main/github-link-style.css";
+const cssSource = "https://cdn.jsdelivr.net/gh/jancernik/floating-github-link@main/github-link-style.css";
 
 const head = document.querySelector("head");
 

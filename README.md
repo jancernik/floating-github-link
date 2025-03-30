@@ -19,7 +19,7 @@ The JS file checks if the necessary resources are already included, otherwise it
 ## Usage
 - Include the following `<script>` tag at the bottom of the HTML head:
 ```html
-<script src="https://cdn.jsdelivr.net/gh/cernikkk/floating-github-link@main/github-link.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/jancernik/floating-github-link@main/github-link.js"></script>
 ```
 
 - Apply the style to an empty `<a>` tag with `class="github-link"`.
@@ -28,7 +28,7 @@ The JS file checks if the necessary resources are already included, otherwise it
 
 ## See it in action!
 These are some of my projects that include it:
-- [tic-tac-toe](https://github.com/cernikkk/tic-tac-toe)
-- [library](https://github.com/cernikkk/library)
+- [tic-tac-toe](https://github.com/jancernik/tic-tac-toe)
+- [library](https://github.com/jancernik/library)
 
 ***And that's all, I didn't end up using it much...***
